@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\10GlavaBaryshevSisProg\10GlavaBaryshevSisProg\bin\Debug\10GlavaBaryshevSisProg.exe.config
+C:\Users\student\source\repos\10GlavaBaryshevSisProg\10GlavaBaryshevSisProg\bin\Debug\10GlavaBaryshevSisProg.exe
+C:\Users\student\source\repos\10GlavaBaryshevSisProg\10GlavaBaryshevSisProg\bin\Debug\10GlavaBaryshevSisProg.pdb
+C:\Users\student\source\repos\10GlavaBaryshevSisProg\10GlavaBaryshevSisProg\obj\Debug\10GlavaBaryshevSisProg.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\10GlavaBaryshevSisProg\10GlavaBaryshevSisProg\obj\Debug\_10GlavaBaryshevSisProg.Form1.resources
+C:\Users\student\source\repos\10GlavaBaryshevSisProg\10GlavaBaryshevSisProg\obj\Debug\_10GlavaBaryshevSisProg.Properties.Resources.resources
+C:\Users\student\source\repos\10GlavaBaryshevSisProg\10GlavaBaryshevSisProg\obj\Debug\10GlavaBaryshevSisProg.csproj.GenerateResource.cache
+C:\Users\student\source\repos\10GlavaBaryshevSisProg\10GlavaBaryshevSisProg\obj\Debug\10GlavaBaryshevSisProg.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\10GlavaBaryshevSisProg\10GlavaBaryshevSisProg\obj\Debug\10GlavaBaryshevSisProg.exe
+C:\Users\student\source\repos\10GlavaBaryshevSisProg\10GlavaBaryshevSisProg\obj\Debug\10GlavaBaryshevSisProg.pdb
